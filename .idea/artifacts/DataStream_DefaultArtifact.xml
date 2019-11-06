@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DataStream_DefaultArtifact">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataStream_DefaultArtifact</output-path>
+    <root id="archive" name="default_artifact.jar">
+      <element id="module-output" name="DataStream" />
+    </root>
+  </artifact>
+</component>
